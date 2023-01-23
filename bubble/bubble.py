@@ -15,6 +15,7 @@ def bubbleSort(nums):
         print(nums)
 
 nums = [46, 4, 49, 52, 19, 90, 2, 81, 38, 98]
-print("Bubble Sort")
+print("Unsorted")
 print(nums)
+print("Bubble Sort")
 bubbleSort(nums)

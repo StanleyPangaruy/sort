@@ -14,6 +14,7 @@ def sort(nums):
 
 
 nums = [46, 4, 49, 52, 19, 90, 2, 81, 38, 98]
-print("Selection Sort")
+print("Unsorted")
 print(nums)
+print("Selection Sort")
 sort(nums)
