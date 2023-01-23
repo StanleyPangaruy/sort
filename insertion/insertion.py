@@ -14,5 +14,6 @@ def insertionSort(nums):
 
 
 nums = [46, 4, 49, 52, 19, 90, 2, 81, 38, 98]
+print("Insertion Sort")
 print(nums)
 insertionSort(nums)
